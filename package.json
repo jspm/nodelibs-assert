@@ -1,7 +1,7 @@
 {
   "main": "assert.js",
   "name": "jspm-nodelibs-assert",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "map": {
     "./assert.js": {
       "node": "@node/assert"
